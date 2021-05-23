@@ -2,6 +2,9 @@ public class Paola {
     public int edad;
     public String apellido;
 
+    public Paola() {
+    }
+
     public Paola(int edad, String apellido) {
         this.edad = edad;
         this.apellido = apellido;
