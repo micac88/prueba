@@ -124,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621810913575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="prueba">
+      <created>1621811463890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621811463890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="prueba">
+      <created>1621811573427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621811573427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Saludo a Mica" />
     <MESSAGE value="Agrego clase Paola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrego clase Paola" />
+    <MESSAGE value="prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
   </component>
 </project>
