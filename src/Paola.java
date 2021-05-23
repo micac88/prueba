@@ -6,7 +6,7 @@ public class Paola {
     }
 
     public Paola(int edad, String apellido) {
-        this.edad = edad;
+        this.edad = edad+1;
         this.apellido = apellido;
     }
 
