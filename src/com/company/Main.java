@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Hola Pao!!!");
 
         System.out.println("Chau!!!");
-        System.out.println("Chau!!!");
+
     }
 
 
